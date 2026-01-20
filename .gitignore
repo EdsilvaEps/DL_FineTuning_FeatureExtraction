@@ -1,0 +1,4 @@
+code_template.py
+checkpoints/
+pretrained_backbone/
+.ipynb_checkpoints/
